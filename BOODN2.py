@@ -5,10 +5,10 @@ import google_sheets
 import time
 
 URLS = [
-      "https://chartink.com/screener/copy-bearish-engulifing-see-after-3-15-pm-for-next-day-trade-5168",	
+      "https://chartink.com/screener/copy-bearish-engulifing-see-after-3-15-pm-for-next-day-trade-5168",
       "https://chartink.com/screener/copy-bearish-maribozu-337",
-       "https://chartink.com/screener/copy-yesterday-and-today-ema3-without-open-high-bearish-55",
-       "https://chartink.com/screener/copy-bearish-engulfing-moderate-478",
+      "https://chartink.com/screener/copy-yesterday-and-today-ema3-without-open-high-bearish-55",
+      "https://chartink.com/screener/copy-bearish-engulfing-moderate-478",
       "https://chartink.com/screener/agp-bearong-2",
       "https://chartink.com/screener/shesha-bearish1",
       "https://chartink.com/screener/agp-shesha-bearish-2",
@@ -25,11 +25,11 @@ URLS = [
       "https://chartink.com/screener/copy-bearish-rsi-stoc-1215",
       "https://chartink.com/screener/srf-narayana-futures-positional-bearish",
       "https://chartink.com/screener/sell-bollinger-band-weekly-15",
-      "https://chartink.com/screener/copy-bolinger-band-bearish-reversal-aps-401",
-      "https://chartink.com/screener/copy-ut-sell-eod-basis-5",
-      "https://chartink.com/screener/copy-sell-f-0",
-      "https://chartink.com/screener/copy-perfect-bearish-3266",
-      "https://chartink.com/screener/50-bearish-engulifing-see-after-3-15-pm-for-next-day-trade"
+      "https://chartink.com/screener/sell-positional-95-accuracy-3",
+      "https://chartink.com/screener/sell-positional-buy-price-action-strategy",
+      "https://chartink.com/screener/sell-positional-buy-price-action-strategy",
+      "https://chartink.com/screener/sell-positional-buy-price-action-strategy",
+      "https://chartink.com/screener/sell-positional-buy-price-action-strategy"
      ]
        
 sheet_id = "1k-MQ6VNDgE-twtGytv5uIQlQAgVX_RTExeNoZZiNlaA"
