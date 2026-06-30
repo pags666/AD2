@@ -27,9 +27,9 @@ URLS = [
       "https://chartink.com/screener/sell-bollinger-band-weekly-15",
       "https://chartink.com/screener/sell-positional-95-accuracy-3",
       "https://chartink.com/screener/sell-positional-buy-price-action-strategy",
-      "https://chartink.com/screener/sell-positional-buy-price-action-strategy",
-      "https://chartink.com/screener/sell-positional-buy-price-action-strategy",
-      "https://chartink.com/screener/sell-positional-buy-price-action-strategy"
+      "https://chartink.com/screener/copy-sell-blast-5",
+      "https://chartink.com/screener/copy-down-down-26-26-3",
+      "https://chartink.com/screener/copy-copy-copy-100-bearish-stock-perfect-sell-for-tomorrow-morning-105"
      ]
        
 sheet_id = "1k-MQ6VNDgE-twtGytv5uIQlQAgVX_RTExeNoZZiNlaA"
